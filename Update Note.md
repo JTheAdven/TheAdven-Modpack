@@ -1,4 +1,5 @@
-# Update Note
+# TheAdven's Modpack: Quality of Friends
+# Update Note (Version 1.1)
 
 ## Updated Mods
 - AE2
