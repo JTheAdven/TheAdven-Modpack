@@ -3,6 +3,7 @@
 ## Updated Mods
 - AE2
 - Architectury
+- Collective
 - Double Doors
 - Dynamic FPS
 - Enchant Description
@@ -43,4 +44,4 @@
 - Indium
 
 ## Changed Mods
-- JEI -> EMI
+- ~~JEI~~ -> **EMI**
